@@ -178,4 +178,5 @@ section.imagens .circle {
 @media only screen and (max-width: 350px) {
     main .social-media img {
         margin-left: 1.5rem;
+    }
 }
