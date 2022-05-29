@@ -1,4 +1,4 @@
-# 💡Página de Cadastro (guiado)
+# 💡Sign Up Page(guided)
 
 ## Result
 
